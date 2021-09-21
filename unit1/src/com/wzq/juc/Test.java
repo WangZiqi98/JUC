@@ -21,7 +21,7 @@ public class Test {
      */
     private int customer = 0;
     public void testUpdate() {
-
+        System.out.println("aaaa");
     }
 
     public static void main(String[] args) {
